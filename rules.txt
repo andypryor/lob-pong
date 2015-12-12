@@ -1,1 +1,33 @@
 
+1.  The first rule of Lob Pong.
+  1.1  All ITTF rules for doubles table tennis as listed on the website[1] apply unless explicity in conflict with a rule of Lob Pong.
+
+2.  The Lob
+  2.1  Each player on a team is allowed a maximum of one strike of the ball per return;  with exception being the first return of the service in which only the reciever is allowed to strike the ball.  
+    2.1.1 The first player to strike the ball on a return is the "setter".  The partner of the setter when finishing the return is the "spiker".  The setter may choose to return the ball directly,  or they may strike the ball so that the "spiker" is able to return the ball to the opponents side of the table.  When the "setter" and "spiker" both hit the ball on a return this is known as a "lob".
+    2.1.2  Lob Scoring
+      2.1.2.1  A lob that scores immediately after a 1 hit return shall be worth 2 points.
+      2.1.2.2  A lob that scores after a lob from the opponents shall be worth (N+1) points,  where N is the number of consective lobs that have occurred between both teams since a 1 hit return.
+      
+3  Logistics
+  3.1  Players on the team attempting to return a lob may strike the ball in any order.  If a lob is returned from the opponents with a 1 hit return,  then they must again begin alternating hits with the "setter" of the preceeding lob required to strike the ball first.
+  3.2  The ball may be played legally after it strikes any surface or obstruction beyond the playing table other than the floor.  This includes but is not limited to walls, ceilings, support pillars,  or innocent bystanders.
+
+4.  Offsides
+  4.1  The offside line is the back edge of the table (parallel to to the net) extending out from the table indefinitly. 
+  4.2  The spiker,  when striking the ball,  must have their entire lower body completely behind the offside line.  
+    4.2.1 The lower body in this context shall be defined as the body that exists below the height of the playing table.
+    4.2.2  The spiker may lean over the offside line with their upper body.
+    
+5.  The Game
+  5.1  Games shall be played best of 3 to 21.
+    5.2  The winning team must win by 2 points.
+    5.3  The winning point must be the result of a lob.
+    5.4  The Fillipini Rule
+      5.4.1  If the team on game point scores a point that is not, a lob the opponents shall incur a strike.
+      5.4.2  If the team incurring a strike shall score 1 point,  their strikes shall be reset.
+      5.4.3  If a team incurs 3 strikes they shall loose the game.
+      5.4.4  Members of all teams are required to acknowledge the Fillipini rule upon any team reaching game point by verbally confirming that "The Fillipini rule is in effect".   
+  
+Links
+[0] - http://www.ittf.com/ittf_handbook/hb.asp?s_number=2 
