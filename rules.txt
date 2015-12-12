@@ -24,7 +24,7 @@
     5.2  The winning team must win by 2 points.
     5.3  The winning point must be the result of a lob.
     5.4  The Fillipini Rule
-      5.4.1  If the team on game point scores a point that is not, a lob the opponents shall incur a strike.
+      5.4.1  If the team on game point scores a point that is not a lob the opponents shall incur a strike.
       5.4.2  If the team incurring a strike shall score 1 point,  their strikes shall be reset.
       5.4.3  If a team incurs 3 strikes they shall loose the game.
       5.4.4  Members of all teams are required to acknowledge the Fillipini rule upon any team reaching game point by verbally confirming that "The Fillipini rule is in effect".   
