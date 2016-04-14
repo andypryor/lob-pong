@@ -25,7 +25,7 @@
     5.3  The winning point must be the result of a lob, except in the case of 5.4, the Three-Strike (Filippini) Rule.
     5.4  The Three-Strike (Filippini) Rule
       5.4.1  If a team is within one point of a winning score and scores a point that is not the result of a lob, their opponents shall incur a strike.
-      5.4.2  If the opponent of a the team within one point of a winning score scores any number of points, their strikes shall be reset.
+      5.4.2  If a team earns at least one (1) point, their strikes shall be reset to zero (0).
       5.4.3  If a team incurs 3 strikes they shall lose the game.
       5.4.4  Members of all teams are required to acknowledge the Three-Strike (Filippini) rule upon any team reaching game point by verbally confirming that "The Three-Strike (Filippini) rule is in effect".
   
