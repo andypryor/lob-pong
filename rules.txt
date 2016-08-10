@@ -5,7 +5,7 @@
 2.  The Lob
   2.1  Each player on a team is allowed a maximum of one strike of the ball per return;  with exception being the first return of the service in which only the reciever is allowed to strike the ball.  
     2.1.1 The first player to strike the ball on a return is the "setter".  The partner of the setter when finishing the return is the "spiker".  The setter may choose to return the ball directly,  or they may strike the ball so that the "spiker" is able to return the ball to the opponents side of the table.  When the "setter" and "spiker" both hit the ball on a return this is known as a "lob".
-    2.1.2  In the process of completing a lob,  it is permissiable for one hand of the spiker to come in contact with any part of the playing surface.
+    2.1.2  In the process of completing a lob,  it is permissible for one hand of the spiker to come in contact with any part of the playing surface.
     2.1.3  Lob Scoring
       2.1.3.1  A lob that scores immediately after a 1 hit return shall be worth 2 points.
       2.1.3.2  A lob that scores after a lob from the opponents shall be worth (N+1) points,  where N is the number of consective lobs that have occurred between both teams since a 1 hit return. For example, if the serving team hits a lob at the first legal opportunity, the receiving team fields and converts their own lob, it shall be worth 3 points. 
